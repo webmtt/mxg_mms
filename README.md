@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mxg-mms
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# mxg_mms
+>>>>>>> 2eed24fb7ed9f91960399d0d2e8c624d17068fb9
